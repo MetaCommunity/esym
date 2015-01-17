@@ -5,32 +5,6 @@
 Primary reference:
 [J2004] Johnston, Wesley JR, Paul Hanna ans Richard Millar. Advances in Dataflow Programming Languages. ACM Comput. Surv. 2004.
 
-i.e.
-
-@article{Johnston:2004:ADP:1013208.1013209,
- author = {Johnston, Wesley M. and Hanna, J. R. Paul and Millar, Richard J.},
- title = {Advances in Dataflow Programming Languages},
- journal = {ACM Comput. Surv.},
- issue_date = {March 2004},
- volume = {36},
- number = {1},
- month = mar,
- year = {2004},
- issn = {0360-0300},
- pages = {1--34},
- numpages = {34},
- url = {http://doi.acm.org/10.1145/1013208.1013209},
- doi = {10.1145/1013208.1013209},
- acmid = {1013209},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {Dataflow, co-ordination languages, component software, data flow visual programming, graphical programming, multithreading, software engineering},
-}
-available: http://www.cs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/DataFlowProgrammingLanguages.pdf
-
-Secondary references:
-* Inspired by NI LabVIEW(TM)
-
 |#
 
 (in-package #:cl-user)
